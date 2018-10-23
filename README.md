@@ -5,7 +5,7 @@ Adds button to chrome to click every link that includes the text "unsubscribe"
 
 Installation
 ------------
-For now clone the repo and [install as an unpacked extension](https://stackoverflow.com/questions/24577024/install-chrome-extension-not-in-the-store). Might add to chrome store later.
+For now clone the repo and [install as an unpacked extension](https://developer.chrome.com/extensions/getstarted#unpacked). Might add to chrome store later.
 
 Icon
 ----
